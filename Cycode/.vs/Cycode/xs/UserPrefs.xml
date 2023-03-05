@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{FCC7D0AE-C438-45F7-ABDD-034E1E76066B}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cycode/Program.cs">
+    <Files>
+      <File FileName="Cycode/Controllers/SecurityVulnerabilityController.cs" />
+      <File FileName="Cycode/BusinessServices/GithubSecurityVulnerabilityService.cs" Line="39" Column="54" />
+      <File FileName="Cycode/BusinessServices/ISecurityVulnerabilityService.cs" />
+      <File FileName="Cycode/DataAccess/SecurityVulnerabilityRepository.cs" Line="41" Column="115" />
+      <File FileName="Cycode/DataContracts/ScanResponse.cs" />
+      <File FileName="Cycode/Model/ScanRequest.cs" />
+      <File FileName="Cycode/Model/VulnerabilityResponse.cs" Line="7" Column="36" />
+      <File FileName="Cycode/Program.cs" Line="41" Column="79" />
+      <File FileName="Cycode/DataContracts/Validators/ScanRequestValidator.cs" Line="16" Column="1" />
+      <File FileName="Cycode/DataContracts/ScanRequest.cs" />
+      <File FileName="Cycode/BusinessLogic/PackageVulnerabilityLogicManager.cs" Line="1" Column="1" />
+      <File FileName="Cycode/appsettings.json" Line="14" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cycode" expanded="True">
+            <Node name="Cycode" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="BusinessLogic" expanded="True" />
+              <Node name="BusinessServices" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccess" expanded="True" />
+              <Node name="DataContracts" expanded="True">
+                <Node name="Validators" expanded="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Cycode PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
